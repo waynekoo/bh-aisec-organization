@@ -1,7 +1,7 @@
 {
     "format":1,
     "package": {
-        "name":"docker.io/msuozzo/slsa-workshop-p1-echo-server",
+        "name":"docker.io/laurentsimon/slsa-workshop-p1-echo-server",
         "environment":{
             "any_of": [
                 "staging", "prod"

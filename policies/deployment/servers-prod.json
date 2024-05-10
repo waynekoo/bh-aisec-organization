@@ -8,7 +8,7 @@
     },
     "packages":[
         {
-            "name": "docker.io/msuozzo/slsa-workshop-p1-echo-server",
+            "name": "docker.io/laurentsimon/oss-na24-slsa-workshop-project1-echo-server",
             "environment": {
                 "any_of": [
                     "prod"
@@ -16,15 +16,7 @@
             }
         },
         {
-            "name": "docker.io/msuozzo/slsa-workshop-p2-another-server",
-            "environment": {
-                "any_of": [
-                    "prod"
-                ]
-            }
-        },
-        {
-            "name": "docker.io/msuozzo/slsa-workshop-p3-another-server",
+            "name": "docker.io/laurentsimon/oss-na24-slsa-workshop-project2-something",
             "environment": {
                 "any_of": [
                     "prod"

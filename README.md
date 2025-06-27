@@ -1,3 +1,3 @@
-# oss-na24-slsa-workshop-organization
+# bh25-aisec-organization
 
-This repository contains example code for the [OpenSSF SLSA Workshop @ 2024 Open Source Security Summit North America](https://github.com/slsa-framework/oss-na24-slsa-workshop).
+This repository contains example code for the [BlackHat USA 2025 Security Training](https://github.com/lmrs2/bh25-aisec).

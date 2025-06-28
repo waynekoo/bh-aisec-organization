@@ -8,7 +8,7 @@
     },
     "packages":[
         {
-            "name": "docker.io/lmrs2/bh25-aisec-project1-echo-server",
+            "name": "docker.io/lmrs2/bh-aisec-project1-echo-server",
             "environment": {
                 "any_of": [
                     "prod"
@@ -16,7 +16,7 @@
             }
         },
         {
-            "name": "docker.io/lmrs2/bh25-aisec-project2-something",
+            "name": "docker.io/lmrs2/bh-aisec-project2-something",
             "environment": {
                 "any_of": [
                     "prod"

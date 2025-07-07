@@ -16,7 +16,7 @@
             }
         },
         {
-            "name": "docker.io/lmrs2/bh-aisec-project2-something",
+            "name": "docker.io/lmrs2/bh-aisec-model-inferrence",
             "environment": {
                 "any_of": [
                     "prod"

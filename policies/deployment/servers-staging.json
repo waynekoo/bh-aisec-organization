@@ -16,7 +16,7 @@
             }
         },
         {
-            "name": "docker.io/lmrs2/bh-aisec-model-inferrence",
+            "name": "docker.io/lmrs2/bh-aisec-model-inference",
             "environment": {
                 "any_of": [
                     "staging"

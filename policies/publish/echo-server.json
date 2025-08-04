@@ -1,7 +1,7 @@
 {
     "format":1,
     "package": {
-        "name":"docker.io/waynekoo/bh-aisec-project1-echo-server",
+        "name":"docker.io/waynekoo/bh-aisec-project1-echo-server@sha256:1c43084dd75f665b5a1bec7aa6639caa21954014db425e66c799d628acb5f800",
         "environment":{
             "any_of": [
                 "staging", "prod"

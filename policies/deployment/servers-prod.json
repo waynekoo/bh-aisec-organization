@@ -8,7 +8,7 @@
     },
     "packages":[
         {
-            "name": "docker.io/lmrs2/bh-aisec-project1-echo-server",
+            "name": "docker.io/waynekoo/bh-aisec-project1-echo-server",
             "environment": {
                 "any_of": [
                     "prod"
@@ -16,7 +16,7 @@
             }
         },
         {
-            "name": "docker.io/lmrs2/bh-aisec-model-inference",
+            "name": "docker.io/waynekoo/bh-aisec-model-inference",
             "environment": {
                 "any_of": [
                     "prod"

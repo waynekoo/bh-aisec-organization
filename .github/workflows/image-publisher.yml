@@ -106,7 +106,7 @@ jobs:
       - name: Install policy evaluator
         id: install
         continue-on-error: true
-        uses: lmrs2/slsa-policy/actions/installer@v0.0.1
+        uses: waynekoo/slsa-policy/actions/installer@v0.0.1
       - id: evaluate
         continue-on-error: true
         env:
